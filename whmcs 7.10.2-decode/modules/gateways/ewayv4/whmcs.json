@@ -1,0 +1,23 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "ewayv4",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "eWAY",
+    "tagline": "Accept payments via eWay using their Secure Fields integration."
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "docs_url": "https:\/\/docs.whmcs.com\/EWAY"
+  },
+  "authors": [
+    {
+      "name": "WHMCS",
+      "homepage": "https:\/\/www.whmcs.com\/"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "paypalcheckout",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "PayPal",
+    "tagline": "PayPal is the #1 most recognised and widely used payment gateway.",
+    "long": "PayPal is the fast, easy, secure way to accept credit cards and PayPal online. Millions of users know and trust the PayPal payment solution online.\n\nFeaturing Checkout with PayPal and Smart Payment Buttons, this PayPal integration provides the fastest and most seamless checkout experience for your customers and provides context and geolocation specific payment options to your customers to help maximise conversions",
+    "features": [
+      "Checkout with PayPal for a faster checkout & payment experience",
+      "Smart Payment Buttons presents localised payment options",
+      "Supports automatic recurring subscription billing",
+      "Customers complete checkout without leaving your website",
+      "Proven to increase conversions and reduce cart abandonement rates"
+    ]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https:\/\/www.paypal.com\/",
+    "docs_url": "https:\/\/docs.whmcs.com\/PayPal_Checkout"
+  },
+  "authors": [
+    {
+      "name": "WHMCS",
+      "homepage": "https:\/\/www.whmcs.com\/"
+    }
+  ]
+}

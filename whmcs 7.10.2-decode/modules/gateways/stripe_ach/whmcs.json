@@ -1,0 +1,20 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "stripe_ach",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "Stripe ACH",
+    "tagline": "A popular tokenised ACH merchant solution."
+  },
+  "support": {
+    "docs_url": "https:\/\/docs.whmcs.com\/Stripe_ACH"
+  },
+  "authors": [
+    {
+      "name": "WHMCS",
+      "homepage": "https:\/\/www.whmcs.com\/"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-registrars",
+  "name": "godaddy",
+  "category": "domains",
+  "description": {
+    "name": "GoDaddy",
+    "tagline": "Industry-leading domain registrar with over 77M domain names.",
+    "long": "GoDaddy powers the world\u2019s largest cloud platform. With 18.5M+ customers worldwide and 77M+ domain names under management, GoDaddy is the registrar of choice for more domain names than any other ICANN-acreddited registrar.\n\nNow with the GoDaddy module for WHMCS, you can resell domains using the GoDaddy domain reseller platform. To get started, download the module from the WHMCS Marketplace using the link to the right.\n\nSignup for a GoDaddy account @ [https:\/\/reseller.godaddy.com\/whmcs](https:\/\/reseller.godaddy.com\/whmcs)\n\n## Reasons to Choose GoDaddy\n* Trusted partner and champion of our customers.\n* Large, high growth business with attractive unit economics.\n* Industry-leading products built on a single cloud platform & distinctive customer care.\n* Proven growth strategy with team purpose built to execute.\n* Market Leading Wholesale Domain Pricing."
+  },
+  "marketplace": {
+    "url": "https:\/\/marketplace.whmcs.com\/product\/4864"
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https:\/\/www.godaddy.com\/",
+    "learn_more": "https:\/\/www.whmcs.com\/godaddy",
+    "docs_url": "https:\/\/docs.whmcs.com\/GoDaddy"
+  },
+  "authors": [
+    {
+      "name": "WHMCS",
+      "homepage": "https:\/\/www.whmcs.com\/"
+    }
+  ]
+}
